@@ -4,3 +4,6 @@ the second version of the data analysis of titanic data
 
 关于V3
 缺失的数据在探索分析单个数据之前分别进行了填充，请再次审核
+
+
+关于V4_hard code 修改和描述不详的进行了修改,麻烦再次审阅
